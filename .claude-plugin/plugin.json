@@ -1,0 +1,15 @@
+{
+  "name": "agents-output-styles",
+  "description": "Output styles for Claude Code",
+  "version": "1.0.0",
+  "author": {
+    "name": "Daniel Bauke",
+    "email": "daniel@bauke.pl"
+  },
+  "license": "MIT",
+  "keywords": [
+    "output-style"
+  ],
+  "repository": "https://github.com/bonkey/agents-output-styles",
+  "homepage": "https://github.com/bonkey/agents-output-styles"
+}

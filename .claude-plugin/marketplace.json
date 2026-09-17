@@ -1,0 +1,13 @@
+{
+  "name": "bonkey",
+  "owner": { "name": "Daniel Bauke" },
+  "description": "Output styles for Claude Code and other agents",
+  "plugins": [
+    {
+      "name": "agents-output-styles",
+      "source": "./",
+      "description": "Output styles for Claude Code",
+      "version": "1.0.0"
+    }
+  ]
+}
